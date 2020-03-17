@@ -1,3 +1,5 @@
+require_relative
+
 class Waiter
 
 attr_accessor :name, :years_experience 
